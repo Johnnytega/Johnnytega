@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hey!, I’m @Johnnytega 
 
 <!--
-**Johnnytega/Johnnytega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏾‍🦱 I'm a computer engineering student who's absolutely in love with computers and programming.
+😄 Pronouns: he/him
+- 🔭 I’m currently studying in the alx software engineering programme 
+- 🕵️ Currently looking to practice my skills with new and fun projects
+ - 💬 Ask me about anything (please don't 😂)
+- 📫 How to reach me: email: oghenetegajohnny16@gmail.com, instagram: https://www.instagram.com/_johnny.tega/#
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Languages
+ Java
+
+ Javascript
+
+ Python
+
+ C#
+
+ Typescript
+
+🌐 HTML / CSS
