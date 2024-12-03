@@ -2,7 +2,7 @@
 
 
 
-👨🏾‍🦱 I'm a computer engineering student who's absolutely in love with computers and programming.
+👨🏾‍🦱 I'm a computer engineering student who's in love with computers and programming.
 
 😄 Pronouns: he/him
 
